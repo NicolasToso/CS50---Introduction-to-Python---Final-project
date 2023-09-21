@@ -3,7 +3,6 @@ import re
 import googlemaps
 from pytest import raises
 
-API_KEY = "AIzaSyBdEAO7YglDr_sKFGR-DHtwcow-2D8IteU"
 
 def test_map_request():
     maps = googlemaps.Client(key=API_KEY)
