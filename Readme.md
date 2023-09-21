@@ -4,11 +4,10 @@
 This program searches for places registered in Google Maps according to an address and a category entered by the user. It also allows you to save the records, and then display or delete them.
 
 ## What does the project folder contain?
-    <dir> libraries
-    project.py
-    test_project.py
-    query_log.txt
-    reguirements.txt
+    project.py --> Program file
+    test_project.py --> Test file
+    query_log.txt --> Where the records will be kept
+    reguirements.txt --> Necessary libraries
 
 In the libraries folder are all the installed packages necessary to run the program. 
 For example: 
