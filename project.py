@@ -10,7 +10,7 @@ from pyfiglet import Figlet
 FONT = "big"
 figlet = Figlet(font=FONT)
 ##figlet.setFont()
-API_KEY = "AIzaSyBdEAO7YglDr_sKFGR-DHtwcow-2D8IteU"
+API_KEY = """you must enter your own API key"""
 is_yes = {"yes", "y", "si", "s", "ok"}
 is_no = {"no", "n", "none"}
 
